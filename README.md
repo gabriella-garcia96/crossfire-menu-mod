@@ -17,10 +17,6 @@
 </tr>
 </table>
 
-[![Version](https://share.google/pG4HYRahCTVoD3R8n)]()
-[![Platform](https://share.google/pG4HYRahCTVoD3R8n)]()
-[![License](https://share.google/pG4HYRahCTVoD3R8n)]()
-[![Updated](https://share.google/pG4HYRahCTVoD3R8n)]()
 
 > Experience thrilling online shooting action with Cross Fire, the ultimate free FPS game!
 
